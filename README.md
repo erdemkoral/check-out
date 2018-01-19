@@ -13,9 +13,9 @@ Please refer to the in-class example for ways you can use JavaScript to improve 
 
 ## Rubric
 
-* Design Implementation (Was the design built as intended) **5pt**
-* Usability and Accessibility **5pt**
-* Use of JavaScript and DOM Events **5pt**
+* Design Implementation (Was the design built as intended) **5pts**
+* Usability and Accessibility **5pts**
+* Use of JavaScript and DOM Events **5pts**
 * Clean, organized, easy to understand code **5pts**
 
 ## Stretch Goals
