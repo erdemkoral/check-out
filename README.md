@@ -17,3 +17,8 @@ Please refer to the in-class example for ways you can use JavaScript to improve 
 * Usability and Accessibility **5pt**
 * Use of JavaScript and DOM Events **5pt**
 * Clean, organized, easy to understand code **5pts**
+
+## Stretch Goals
+
+* Implement a router and create multiple pages
+* Implement your cart page
